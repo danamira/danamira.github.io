@@ -134,6 +134,26 @@ a {
     margin-right: 6px;
     
 }
+#youtube {
+    margin-left: 10px;
+    float: left;
+    height: 38px;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 0 10px;
+    background-color: rgb(189, 31, 31);
+    /* border: 1px solid #cacaca; */
+    line-height: 38px;
+}
+#youtube .mdi {
+    float: left;
+    /* color: rgb(189, 31, 31); */
+    font-size: 24px;
+    line-height: 36px;
+    margin-right: 6px;
+    
+}
 @media only screen and (max-width: 800px) {
     .container {
         margin-top: 20px;
